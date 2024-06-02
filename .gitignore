@@ -5,3 +5,5 @@
 logs/
 plugin_config/
 updates/
+plugins/
+profiler_data/
